@@ -1,6 +1,6 @@
 <h1> SOC AUTOMATION PROJECT</h1>
 
- ### [SOC PROJECT DIAGRAM](https://github.com/Mashton05/MAIN-REPO/blob/main/SIEM%20PROJECT%20MAP.png?raw=true)
+ ### [SOC PROJECT DIAGRAM](https://i.imgur.com/fCBmfFG.png)
  
 
 <h2>Description</h2>
