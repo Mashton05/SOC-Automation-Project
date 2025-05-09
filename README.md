@@ -4,7 +4,7 @@
  
 
 <h2>Description</h2>
-Project consists of Building a working Network Topology based on an enhanced version of my home network in Cisco Packet Tracer. A network simulation software developed by Cisco Systems that allows users to create, configure, and troubleshoot virtual networks in a safe and interactive environment. I've chosen to build out my current home network to show more of a SOHO network topology and function.
+Project consists of setting up a Security Operations Center (SOC) automation project (home lab) without breaking the bank. Exploring how automation enhances incident response, accelerates threat detection, and streamlines SOC workflows.
 <br />
 
 
