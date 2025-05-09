@@ -1,6 +1,6 @@
 <h1> SOC AUTOMATION PROJECT</h1>
 
- ### [SOC PROJECT DIAGRAM](https://i.imgur.com/fCBmfFG.png)
+ ### [SOC PROJECT DIAGRAM](https://tinyurl.com/4umcuzbc)   
  
 
 <h2>Description</h2>
